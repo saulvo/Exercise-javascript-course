@@ -7,4 +7,3 @@ var isPalindrome = function (x) {
 
    return reverse === x;
 };
-
