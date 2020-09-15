@@ -24,5 +24,3 @@ function findNemo(sentence) {
 
    return result;
 }
-
-console.log(findNemo("Nemo' is me"));
